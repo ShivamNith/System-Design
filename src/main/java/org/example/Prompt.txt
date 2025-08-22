@@ -1,0 +1,23 @@
+Now similarly create for below patterns:
+
+Factory Design Pattern
+Singleton Design Pattern
+Observer Design Pattern
+Decorator Design Pattern
+Command Design Pattern
+Adapter Design Pattern
+Facade Design Pattern
+Composite Design Pattern
+Template Design Pattern
+Proxy Design Pattern
+Chain of Responsibility Pattern
+Bridge Design Pattern
+Builder Design Pattern
+Iterator Design Pattern
+Flyweight Design Pattern
+State Design Pattern
+Mediator Design Pattern
+Visitor Design Pattern
+Momento Design Pattern
+
+In the explanation, examples please highlight the principle used in specific pattern

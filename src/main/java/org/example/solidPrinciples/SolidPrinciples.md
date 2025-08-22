@@ -1241,6 +1241,7 @@ public class OfficeManager {
         maintenanceManager.performScheduledMaintenance(multiDevice);
     }
 }
+```
 
 ## 5. Dependency Inversion Principle (DIP)
 
